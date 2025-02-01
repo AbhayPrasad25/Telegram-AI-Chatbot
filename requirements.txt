@@ -1,0 +1,6 @@
+pymongo
+decouple
+telegram
+utils
+google-generativeai
+langchain
